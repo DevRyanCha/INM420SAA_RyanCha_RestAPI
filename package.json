@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "lite-server --baseDir=\"public\""
+    "start": "lite-server"
   },
   "keywords": [],
   "author": "",
